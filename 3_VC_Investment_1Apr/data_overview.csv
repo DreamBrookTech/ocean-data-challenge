@@ -1,0 +1,16 @@
+,Content,Count,Description
+0,funding_rounds,52928,Information regarding each funding round.
+1,ipos,1259,"Detail about IPO: Valuation, Exchange, Time, etc."
+2,funds,1564,"Form of Funding, Participating Investors, and more."
+3,people,226709,Basic info of People name and affiliation
+4,objects,462651,"Profile info for various objects: Company, Financial Org., Person, Product."
+5,degrees,109610,Details regarding the education background of people in the startup network
+6,selected_startups,923,A collection of ntable startups
+7,offices,112718,Information about office location
+8,company_profiles,66368,Partially processed aggregated information for companies across the startup network
+9,founders,18361,Founders track record.
+10,acquisitions,9562,Information about acquisitions.
+11,milestones,39456,Notable milestone news and info
+12,investments,80902,Specific details regarding investment made.
+13,relationships,402878,Granular information about each person relationships across the startup network.
+14,exchangeRates,4909,Exchange Rates data ticker used to convert non-USD valuation/funds to USD equivalent.
